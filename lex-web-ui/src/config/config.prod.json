@@ -4,8 +4,8 @@
   },
   "lex": {
     "botName": "WebUiOrderFlowers",
-    "initialText": " You can ask me for help. Just type \"check customer points\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'check customer points' to get started."
+    "initialText": "",
+    "initialSpeechInstruction": ""
   },
   "polly": {
     "voiceId": "Salli"
