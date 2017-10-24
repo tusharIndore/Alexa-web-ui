@@ -11,8 +11,8 @@
   "ui": {
     "parentOrigin": "",
     "pageTitle": "Order Flowers Bot",
-    "toolbarTitle": "NTUC Bot"
-    "pushInitialTextOnRestart": "false",
+    "toolbarTitle": "NTUC Bot",
+    "pushInitialTextOnRestart": "false"
   },
   "recorder": {
     "preset": "speech_recognition"
