@@ -12,7 +12,7 @@
     "parentOrigin": "",
     "pageTitle": "Order Flowers Bot",
     "toolbarTitle": "NTUC Bot",
-    "pushInitialTextOnRestart": "false"
+    "pushInitialTextOnStart": "false"
   },
   "recorder": {
     "preset": "speech_recognition"
