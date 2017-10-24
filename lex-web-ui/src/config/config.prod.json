@@ -3,9 +3,7 @@
     "poolId": ""
   },
   "lex": {
-    "botName": "WebUiOrderFlowers",
-    "initialText": "",
-    "initialSpeechInstruction": ""
+    "botName": "WebUiOrderFlowers"
   },
   "polly": {
     "voiceId": "Salli"
